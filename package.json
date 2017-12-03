@@ -1,0 +1,29 @@
+{
+	"name": "tokenbox-contracts",
+	"version": "1.0.0.",
+	"description": "Tokenbox ICO Smart Contracts. [https://tokenbox.io]",
+	"author": "Zerion <inbox@zerion.io>",
+	"license": "Apache License 2.0",
+	"homepage": "https://tokenbox.io",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zeriontech/tokenbox-contracts"
+	},
+	"private": true,
+	"engines": {
+		"yarn": "^1.2.1"
+	},
+	"dependencies": {
+		"ganache-cli": "^6.0.3",
+		"truffle": "^4.0.1",
+		"secp256k1": "^3.3.1",
+		"web3": "0.20.2"
+	},
+	"scripts": {
+		"test": "./serve/run_tests.sh",
+		"compile": "yarn truffle compile"
+	},
+	"devDependencies": {
+		"@angular/cli": "^1.4.9"
+	}
+}
