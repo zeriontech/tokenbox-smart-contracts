@@ -31,8 +31,7 @@ For more information about Truffle visit [https://truffle.readthedocs.io/en/late
 
 ## Contracts on Etherscan
 Token address:
-//TODO Update
- [0xc438b4c0dfbb1593be6dee03bbd1a84bb3aa6213](https://etherscan.io/token/0xc438b4c0dfbb1593be6dee03bbd1a84bb3aa6213#readContract)
+ [0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b](https://etherscan.io/token/0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b#readContract)
 
 ## Authors
 <a href="https://zerion.io?utm_source=tokenbox_contracts"><img width="360" alt="Powered by Zerion" src="./assets/zerion.png"></a>
